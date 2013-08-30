@@ -14,9 +14,10 @@ http://gkindel.github.io/Matching-Challenge/dynamic.html
 #### Test Source
 http://gkindel.github.io/Matching-Challenge/unit.js
 
-#### Challenge
+#### Original Challenge jcbozonier (@databozo)[https://twitter.com/databozo]
 
 Links:
+
 Updated Link: http://www.databozo.com/2009/05/19/string-pattern-matching-welcome-to-dynamic-pr.html
 Original Link (broken): http://codelikebozo.com/string-pattern-matching-welcome-to-dynamic-pr
 
