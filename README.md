@@ -14,7 +14,9 @@ http://gkindel.github.io/Matching-Challenge/dynamic.html
 #### Test Source
 http://gkindel.github.io/Matching-Challenge/unit.js
 
-#### Original Challenge jcbozonier [@databozo](https://twitter.com/databozo)
+#### Original Challenge
+
+By [@databozo](https://twitter.com/databozo)
 
 Links:
 
