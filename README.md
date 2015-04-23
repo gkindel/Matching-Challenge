@@ -1,14 +1,22 @@
 Matching-Challenge
 ==================
 
-Exercise in response to an open dynamic programming string matching challenge:
+Exercise in response to an open dynamic programming string matching challenge by [@databozo](https://twitter.com/databozo), where dynamic programming is used to implement a simple regular expression with support for '.' and '*' wildcards, single and variable width matches respectively.
+
 
 
 #### Recursive solution 
 http://gkindel.github.io/Matching-Challenge/recursive.html
 
+Decided to leave it without memoisation for compartive purposes. With it, the difference is speeds is nominal. 
+
+
 ####  Dynamic solution
 http://gkindel.github.io/Matching-Challenge/dynamic.html
+
+Text below lacks a good visualization of the algorithm: 
+![visual algorithm](example-table.png)  
+
 
 
 #### Test Source
