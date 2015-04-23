@@ -1,7 +1,7 @@
 Matching-Challenge
 ==================
 
-Exercise in response to an open dynamic programming string matching challenge by [@databozo](https://twitter.com/databozo), where dynamic programming is used to implement a simple regular expression with support for '.' and '*' wildcards, as single and variable width matches respectively.
+Exercise in response to an dynamic programming string [matching challenge](http://justinbozonier.posthaven.com/string-pattern-matching-welcome-to-dynamic-pr) by [@databozo](https://twitter.com/databozo), where dynamic programming is used to implement a simple regular expression with support for '.' and '*' wildcards, as single and variable width matches respectively.
 
 
 
@@ -24,11 +24,11 @@ http://gkindel.github.io/Matching-Challenge/unit.js
 
 #### Original Challenge
 
-By [@databozo](https://twitter.com/databozo)
+By [@databozo](
 
 Links:
 
-Updated Link: http://www.databozo.com/2009/05/19/string-pattern-matching-welcome-to-dynamic-pr.html
+Updated Link: http://justinbozonier.posthaven.com/string-pattern-matching-welcome-to-dynamic-pr
 Original Link (broken): http://codelikebozo.com/string-pattern-matching-welcome-to-dynamic-pr
 
 
