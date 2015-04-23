@@ -1,7 +1,7 @@
 Matching-Challenge
 ==================
 
-Exercise in response to an open dynamic programming string matching challenge by [@databozo](https://twitter.com/databozo), where dynamic programming is used to implement a simple regular expression with support for '.' and '*' wildcards, single and variable width matches respectively.
+Exercise in response to an open dynamic programming string matching challenge by [@databozo](https://twitter.com/databozo), where dynamic programming is used to implement a simple regular expression with support for '.' and '*' wildcards, as single and variable width matches respectively.
 
 
 
@@ -14,7 +14,7 @@ Decided to leave it without memoisation for compartive purposes. With it, the di
 ####  Dynamic solution
 http://gkindel.github.io/Matching-Challenge/dynamic.html
 
-Text below lacks a good visualization of the algorithm: 
+The original problem statement lacks a good visualization of the algorithm, so here is a better one:
 ![visual algorithm](example-table.png)  
 
 
