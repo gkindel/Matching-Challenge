@@ -8,7 +8,7 @@ Exercise in response to an dynamic programming string [matching challenge](http:
 #### Recursive solution 
 http://gkindel.github.io/Matching-Challenge/recursive.html
 
-Decided to leave it without memoisation for compartive purposes. With it, the difference is speeds is nominal. 
+Usesd memoisation for compartive purposes. With it, the difference is speeds is nominal. 
 
 
 ####  Dynamic solution
